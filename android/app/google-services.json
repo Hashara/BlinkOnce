@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11388250599",
+    "firebase_url": "https://blinkonce-25e11.firebaseio.com",
+    "project_id": "blinkonce-25e11",
+    "storage_bucket": "blinkonce-25e11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11388250599:android:c21bed71641b452823b542",
+        "android_client_info": {
+          "package_name": "com.example.blink_once"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11388250599-p4sh1io690kjbp8sm9d2kne28fjn7a6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-HEbipzUNT_iopUj3o4AiznQjqB9drDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11388250599-p4sh1io690kjbp8sm9d2kne28fjn7a6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
